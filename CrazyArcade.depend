@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1493798350 source:c:\users\mypc\desktop\cprogramming\bomberx\src\gamerender.cpp
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<cstdlib>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<sstream>
+	"gameRender.h"
+
+1493733374 c:\users\mypc\desktop\cprogramming\bomberx\include\gamerender.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<string>
+
+1493841407 source:c:\users\mypc\desktop\cprogramming\bomberx\main.cpp
+	<gameSound.h>
+	<mapRender.h>
+	<character.h>
+	<bomb.h>
+	<bot.h>
+	<gameController.h>
+	<menuitem.h>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<SDL_mixer.h>
+
+1493788435 c:\users\mypc\desktop\cprogramming\bomberx\include\maprender.h
+	<gameRender.h>
+
+1493795494 source:c:\users\mypc\desktop\cprogramming\bomberx\src\maprender.cpp
+	<mapRender.h>
+	<gameSound.h>
+	<fstream>
+	<cstdlib>
+
+1493716564 c:\users\mypc\desktop\cprogramming\bomberx\include\character.h
+	<gameRender.h>
+	<mapRender.h>
+	<bomb.h>
+	<vector>
+
+1493791934 source:c:\users\mypc\desktop\cprogramming\bomberx\src\character.cpp
+	<character.h>
+	<gameSound.h>
+	<cstdlib>
+	<iostream>
+
+1493801233 c:\users\mypc\desktop\cprogramming\bomberx\include\bomb.h
+	<gameRender.h>
+	<mapRender.h>
+	<vector>
+
+1493801257 source:c:\users\mypc\desktop\cprogramming\bomberx\src\bomb.cpp
+	<bomb.h>
+	<cstdlib>
+	<gameSound.h>
+
+1493220114 c:\users\mypc\desktop\cprogramming\bomberx\include\gamecontroller.h
+	<character.h>
+
+1493808288 source:c:\users\mypc\desktop\cprogramming\bomberx\src\gamecontroller.cpp
+	<gameController.h>
+	<cstdlib>
+	<iostream>
+
+1493730977 c:\users\mypc\desktop\cprogramming\bomberx\include\bot.h
+	<gameRender.h>
+	<character.h>
+
+1493790948 source:c:\users\mypc\desktop\cprogramming\bomberx\src\bot.cpp
+	<bot.h>
+	<gameSound.h>
+	<cstdlib>
+	<iostream>
+
+1493731572 source:c:\users\mypc\desktop\cprogramming\bomberx\src\menuitem.cpp
+	"menuitem.h"
+
+1493731602 c:\users\mypc\desktop\cprogramming\bomberx\include\menuitem.h
+
+1493800317 source:c:\users\mypc\desktop\cprogramming\bomberx\src\gamesound.cpp
+	<gameSound.h>
+
+1493799832 c:\users\mypc\desktop\cprogramming\bomberx\include\gamesound.h
+	<SDL_mixer.h>
+
+1494604996 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\bomb.cpp
+	<bomb.h>
+	<cstdlib>
+	<gameSound.h>
+
+1494604320 c:\users\mypc\desktop\cprogramming\crazyarcade\include\bomb.h
+	<gameRender.h>
+	<mapRender.h>
+	<vector>
+
+1494327334 c:\users\mypc\desktop\cprogramming\crazyarcade\include\gamerender.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_image.h>
+	<string>
+
+1494329696 c:\users\mypc\desktop\cprogramming\crazyarcade\include\maprender.h
+	<gameRender.h>
+
+1494336244 c:\users\mypc\desktop\cprogramming\crazyarcade\include\gamesound.h
+	<SDL_mixer.h>
+
+1494606549 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\bot.cpp
+	<bot.h>
+	<gameSound.h>
+	<cstdlib>
+
+1494329331 c:\users\mypc\desktop\cprogramming\crazyarcade\include\bot.h
+	<gameRender.h>
+	<character.h>
+
+1494325223 c:\users\mypc\desktop\cprogramming\crazyarcade\include\character.h
+	<gameRender.h>
+	<mapRender.h>
+	<bomb.h>
+	<vector>
+
+1494606090 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\character.cpp
+	<character.h>
+	<gameSound.h>
+	<cstdlib>
+
+1494327704 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\gamecontroller.cpp
+	<gameController.h>
+	<cstdlib>
+
+1493220114 c:\users\mypc\desktop\cprogramming\crazyarcade\include\gamecontroller.h
+	<character.h>
+
+1494339839 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\gamerender.cpp
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<cstdlib>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<sstream>
+	"gameRender.h"
+
+1494607860 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\maprender.cpp
+	<mapRender.h>
+	<gameSound.h>
+	<fstream>
+	<cstdlib>
+
+1493731572 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\menuitem.cpp
+	"menuitem.h"
+
+1493731602 c:\users\mypc\desktop\cprogramming\crazyarcade\include\menuitem.h
+
+1494608524 source:c:\users\mypc\desktop\cprogramming\crazyarcade\main.cpp
+	<gameSound.h>
+	<mapRender.h>
+	<character.h>
+	<bomb.h>
+	<bot.h>
+	<gameController.h>
+	<menuitem.h>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<SDL_mixer.h>
+
+1494336245 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\gamesound.cpp
+	<gameSound.h>
+
+1494324475 source:c:\users\mypc\desktop\cprogramming\crazyarcade\src\resource.rc
+

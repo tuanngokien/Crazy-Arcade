@@ -1,0 +1,5 @@
+#ifndef RESOURCE_RC
+#define RESOURCE_RC
+MAINICON  ICON  "asset/crazyarcade.ico"
+#endif // RESOURCE_RC_INCLUDED
+
